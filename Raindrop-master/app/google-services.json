@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29851773053",
+    "project_id": "raindrop-183606"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29851773053:android:ea6f1bb0c7651394",
+        "android_client_info": {
+          "package_name": "com.example.raymond.raindrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29851773053-avioft752cl7t2mncud7u8utm0oe84ib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raymond.raindrop",
+            "certificate_hash": "511871f65f6386690a9c8f394562e98f121d4a73"
+          }
+        },
+        {
+          "client_id": "29851773053-nqnq41smbpjrocos32nt0fifshsq58t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
